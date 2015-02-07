@@ -8,6 +8,6 @@ namespace TestLibrary
 {
     public class Class1
     {
-        string s = "Hello World";
+        string s = "Hello World Type 2";
     }
 }
